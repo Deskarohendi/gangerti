@@ -1,0 +1,124 @@
+.ibuk{
+    background-image: url('foto/cek.jpeg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    
+    z-index: 1;
+   
+    border: 2px solid black;
+    
+}
+.kembali{
+    height: 30px;
+    width: 80px;
+    background-color: blue;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+}
+.ibu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+background-image: url('foto/krr.jpeg');
+background-size: cover;
+border: 2px solid black;
+width: 150px;
+height: 220px;
+position: absolute;
+z-index: 6;
+bottom: 210px;
+border-radius: 10px;
+}
+.child1{
+border: 2px solid black;
+background-image: url('foto/d65ec559-01a2-467f-8125-706f9db41723.jpeg');
+background-size: cover;
+width: 150px;
+height: 220px;
+position: absolute;
+z-index: 4;
+bottom: 210px;
+rotate: -40deg;
+right: 568px;
+border-radius: 10px;
+}
+.child2{
+border: 2px solid black;
+background-image: url('foto/451c63c3-6cf0-423c-8d3c-ba91ed338543.jpeg');
+background-size: cover;
+width: 150px;
+height: 220px;
+position: absolute;
+z-index: 3;
+bottom: 210px;
+rotate: 40deg;
+left: 600px;
+border-radius: 10px;
+}
+.nama{
+    position: absolute;
+    bottom: 55px;
+    /* border: 1px solid black; */
+    width: 660px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fb{
+    position: absolute;
+    background-color: blueviolet;
+    width: 90px;
+    height: 40px;
+    bottom: 12px;
+    border-radius: 30px;
+    right: 290px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.wa{
+    position: absolute;
+    background-color: blueviolet;
+    width: 90px;
+    height: 40px;
+    border-radius: 30px;
+    bottom: 12px;
+    right: 70px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.yt{
+    position: absolute;
+    background-color: blueviolet;
+    width: 90px;
+    height: 40px;
+    border-radius: 30px;
+    bottom: 12px;
+    right: 505px;
+    border:1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    position: absolute;
+   
+    bottom: 50px;
+    
+}
